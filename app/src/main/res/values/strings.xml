@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Finin</string>
+    <string name="something_went_wrong_msg">Something went wrong. Please try again later.</string>
+    <string name="network_error_msg">Failed to detect network. Please enable your network connection and try again.</string>
+</resources>
